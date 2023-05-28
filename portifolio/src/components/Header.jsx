@@ -2,7 +2,8 @@ import React from "react";
 import logo from '../assets/logo.png';
 
 const Header = () =>{
-    return <header className="py-8 ">
+    return (
+    <header className="py-8 ">
         <div className="container mx-auto">
             <div className="flex justify-between items-center">
                 {/* Logo */ }
@@ -13,6 +14,7 @@ const Header = () =>{
             </div>
         </div>
     </header>
+    )
 }
 
 export default Header;

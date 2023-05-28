@@ -27,9 +27,9 @@ export default {
     }
   },
     backgroundImage:{
-      site: "url('./assets/bacgrupd.jpg')",
+      site: "url('./assets/backgrupd.jpg')",
       about: "url('./assets/contact.jpg')",
-      services: "url('./assets/works.jpg')"
+      services: "url('./assets/woks.jpg')"
     }
   },
   plugins: [],
